@@ -1,1 +1,10 @@
-.txt
+input.txt
+
+# Compiled class files
+*.class
+bin/
+out/
+
+# IDE files
+.idea/
+*.iml
